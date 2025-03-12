@@ -8,9 +8,10 @@ design:
   columns: "1"
 ---
 
+<!-- Contenedor de la foto -->
 <div class="photo-container">
     <div class="photo-title">March's Best Photo</div>
-    <img src="{{ "authors/images/bled_lake.jpeg" | relURL }}" alt="March's Best Photo">
+    <img src="authors/images/bled_lake.jpeg" alt="March's Best Photo">
 </div>
 
 <style>
@@ -19,8 +20,8 @@ design:
     margin-top: 20px;
 }
 .photo-container img {
-    width: 300px;
-    height: 200px;
+    width: 300px; /* Ajusta el tamaño según sea necesario */
+    height: 200px; /* Ajusta el tamaño según sea necesario */
     object-fit: cover;
 }
 .photo-title {
