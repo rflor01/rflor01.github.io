@@ -7,7 +7,6 @@ title: ""
 design:
   columns: "1"
 ---
-
 <!-- Contenedor de la foto -->
 <div class="photo-container">
     <div class="photo-title">March's Best Photo</div>
@@ -20,13 +19,17 @@ design:
     margin-top: 20px;
 }
 .photo-container img {
-    width: 300px; /* Ajusta el tamaño según sea necesario */
-    height: 200px; /* Ajusta el tamaño según sea necesario */
+    width: 600px; /* Ajusta el tamaño según sea necesario */
+    height: 400px; /* Ajusta el tamaño según sea necesario */
     object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 .photo-title {
     font-size: 1.5em;
     margin-top: 10px;
+    text-align: center;
 }
 </style>
 
