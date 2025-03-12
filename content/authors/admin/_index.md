@@ -49,7 +49,7 @@ Feel free to contact me via email at [rafael.flor@uah.es](mailto:rafael.flor@uah
 <!-- Contenedor de la foto -->
 <div class="photo-container">
     <div class="photo-title">March's Best Photo</div>
-    <img src="content/authors/images/bled_lake.jpeg" alt="March's Best Photo">
+    <img src="authors/images/bled_lake.jpeg" alt="March's Best Photo">
 </div>
 
 <style>
