@@ -10,7 +10,7 @@ design:
 
 <div class="photo-container">
     <div class="photo-title">March's Best Photo</div>
-    <img src="{{< static "authors/images/bled_lake.jpeg" >}}" alt="March's Best Photo">
+    <img src="{{ "authors/images/bled_lake.jpeg" | relURL }}" alt="March's Best Photo">
 </div>
 
 <style>
@@ -28,4 +28,4 @@ design:
     margin-top: 10px;
 }
 </style>
----
+
