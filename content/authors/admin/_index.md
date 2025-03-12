@@ -45,3 +45,25 @@ In 2023, I was awarded the Spanish State Research Initiation Grant, which allowe
 Passionate about robotics and artificial intelligence, I strive to develop innovative solutions that bring technology closer to society. I firmly believe in a future where robots become essential allies in everyday life, improving accessibility, autonomy, and efficiency for people around the world.  
 
 Feel free to contact me via email at [rafael.flor@uah.es](mailto:rafael.flor@uah.es).
+
+<!-- Contenedor de la foto -->
+<div class="photo-container">
+    <div class="photo-title">March's Best Photo</div>
+    <img src="../images/bled_lake.jpeg" alt="March's Best Photo">
+</div>
+
+<style>
+.photo-container {
+    text-align: center;
+    margin-top: 20px;
+}
+.photo-container img {
+    width: 300px; /* Ajusta el tamaño según sea necesario */
+    height: 200px; /* Ajusta el tamaño según sea necesario */
+    object-fit: cover;
+}
+.photo-title {
+    font-size: 1.5em;
+    margin-top: 10px;
+}
+</style>
