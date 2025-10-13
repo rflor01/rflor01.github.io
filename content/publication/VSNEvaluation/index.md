@@ -1,6 +1,6 @@
 ---
 draft: false
-url_pdf: https://monke.es/media/harl_abstract.pdf
+url_pdf: https://monke.es/media/gutierrez-alvarez-evaluation-of-vsn-models.pdf
 title: Evaluation of Visual Semantic Navigation Models in Real Robots
 publication_types:
   - "2"
