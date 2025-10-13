@@ -1,20 +1,21 @@
 ---
 draft: false
 url_pdf: https://monke.es/media/harl_abstract.pdf
-title: OffNav Offline Reinforcement Learning for Visual Semantic Navigation
+title: Evaluation of Visual Semantic Navigation Models in Real Robots
 publication_types:
   - "2"
 authors:
   - Carlos Gutiérrez-Álvarez
+  - Pablo Ríos-Navarro
   - Rafael Flor-Rodríguez-Rabadán
-  - Asako Kanezaki
+  - Francisco Javier Acevedo-Rodríguez
   - Roberto Javier López-Sastre
-publication: In *ICRA* Human-aligned Reinforcement Learning for Autonomous Agents and Robots Workshop 2024
-publication_short: In *ICRA*
+publication: In *IROS* Late Breaking Results, 2023.
+publication_short: In *IROS*
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2024-05-17
+date: 2023-05-17
 ---
