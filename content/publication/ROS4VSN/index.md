@@ -3,7 +3,7 @@ draft: false
 url_pdf: https://arxiv.org/pdf/2311.16623.pdf
 title: Visual Semantic Navigation with Real Robots
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Carlos Gutiérrez-Álvarez
   - Pablo Ríos-Navarro
