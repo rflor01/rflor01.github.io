@@ -3,7 +3,7 @@ draft: false
 url_pdf: https://monke.es/media/gutierrez-alvarez-evaluation-of-vsn-models.pdf
 title: Evaluation of Visual Semantic Navigation Models in Real Robots
 publication_types:
-  - "3"
+  - "1"
 authors:
   - Carlos Gutiérrez-Álvarez
   - Pablo Ríos-Navarro
