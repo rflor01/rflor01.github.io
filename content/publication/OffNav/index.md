@@ -3,7 +3,7 @@ draft: false
 url_pdf: https://monke.es/media/harl_abstract.pdf
 title: OffNav Offline Reinforcement Learning for Visual Semantic Navigation
 publication_types:
-  - "2"
+  - "3"
 authors:
   - Carlos Gutiérrez-Álvarez
   - Rafael Flor-Rodríguez-Rabadán
