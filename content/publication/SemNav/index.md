@@ -1,7 +1,7 @@
 ---
 draft: false
 url_pdf: https://arxiv.org/pdf/2506.01418
-title: SemNav: A Semantic Segmentation-Driven Approach to Visual Semantic Navigation
+title: SemNav A Semantic Segmentation-Driven Approach to Visual Semantic Navigation
 publication_types:
   - "2"
 authors:
