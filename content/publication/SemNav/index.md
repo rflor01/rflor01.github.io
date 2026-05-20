@@ -10,12 +10,12 @@ authors:
   - Francisco Javier Acevedo-Rodríguez
   - Sergio Lafuente Arroyo
   - Roberto Javier López-Sastre
-publication: In *arXiv*
-publication_short: In *arXiv*
+publication: In *Applied Intelligence*
+publication_short: In *Applied Intelligence*
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2025-06-02
+date: 2026-05-19
 ---
