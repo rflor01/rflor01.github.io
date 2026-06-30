@@ -9,8 +9,8 @@ authors:
   - Sergio Lafuente-Arroyo
   - Saturnino Maldonado-Bascón
   - Roberto Javier López-Sastre
-publication: "In *Bioinspired Intelligent Systems*"
-publication_short: "In *Bioinspired Intelligent Systems*"
+publication: "In *International Work-Conference on the Interplay Between Natural and Artificial Computation (IWINAC 2026)*"
+publication_short: "In *IWINAC 2026*"
 featured: true
 date: 2026-01-01
 ---

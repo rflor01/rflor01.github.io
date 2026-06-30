@@ -49,6 +49,15 @@ experience:
     date_end: '2024-07-01'
     description: 'Advisor: Roberto Javier López Sastre'
 
+  - title: Extraordinary Internship
+    company: INDRA
+    company_url: 'https://www.indracompany.com/'
+    company_logo: indra
+    location: Madrid
+    date_start: '2018-06-01'
+    date_end: '2018-09-01'
+    description: ''
+
 
 design:
   columns: '2'
