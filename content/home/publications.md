@@ -18,7 +18,7 @@ content:
     exclude_past: false
   count: 0
   offset: 0
-  order: asc
+  order: desc
 design:
   view: citation
   columns: "2"
