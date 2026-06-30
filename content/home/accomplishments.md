@@ -31,6 +31,14 @@ item:
     organization_url: ''
     title: Research Initiation Scholarship
     url: '' 
+  - certificate_url: 
+    date_end: ''
+    date_start: '2024-07-01'
+    description: ''
+    organization: Alcalá University
+    organization_url: ''
+    title: Second Extraordinary Prize of the Master's degree M.SC in Telecommunications Engineering
+    url: '' 
 
 design:
   columns: '2'
