@@ -9,8 +9,8 @@ design:
 ---
 <!-- Contenedor de la foto -->
 <div class="photo-container">
-    <div class="photo-title">October's Best Photo</div>
-    <img src="authors/images/covadonga.jpeg" alt="October's Best Photo">
+    <div class="photo-title">February's Best Photo</div>
+    <img src="authors/images/february.jpeg" alt="February's Best Photo">
 </div>
 
 <style>
