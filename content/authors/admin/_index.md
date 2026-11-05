@@ -41,7 +41,7 @@ highlight_name: true
 
 I am currently a PhD student at the University of Alcalá, where I work on developing state-of-the-art robotic navigation models. My research focuses on semantic visual navigation and the use of topological maps to improve robotic mobility in complex environments. My ultimate goal is to change the world by creating assistive robots that make human life easier and more efficient.  
 
-In 2023, I was awarded the Spanish State Research Initiation Grant, which allowed me to start my research career at the [Multisensory Analysis and Recognition Group](https://gram.web.uah.es/) at the University of Alcalá. I worked as a researcher in the same group for several months before beginning my PhD, contributing to key projects that now serve as the foundation of my doctoral thesis.  
+In 2023, I was awarded the Spanish State Research Initiation Grant, which allowed me to start my research career at the [Multisensory Analysis and Recognition Group](https://gram.web.uah.es/) at the University of Alcalá. I worked as a researcher in the same group for several months before beginning my PhD, contributing to key projects that now serve as the foundation of my doctoral thesis. Alongside my doctoral research, I serve as a Lecturer / Teaching Assistant in the Department of Signal Theory and Communications, teaching *Reinforcement Learning and Generative AI* in the Master’s Degree Programme in Applications of AI to Industry and Communications.  
 
 Passionate about robotics and artificial intelligence, I strive to develop innovative solutions that bring technology closer to society. I firmly believe in a future where robots become essential allies in everyday life, improving accessibility, autonomy, and efficiency for people around the world.  
 
