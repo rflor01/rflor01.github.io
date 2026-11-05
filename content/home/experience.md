@@ -66,8 +66,8 @@ experience:
     company_url: 'https://www.indracompany.com/'
     company_logo: indra
     location: Madrid
-    date_start: '2018-06-01'
-    date_end: '2018-09-01'
+    date_start: '2023-06-01'
+    date_end: '2023-09-01'
     description: |2-
       * Collaborated within the Artificial Intelligence engineering team to design, evaluate, and optimize machine learning algorithms for advanced radar target detection and signal classification.
       * Contributed to sensory data processing pipelines, assisting in the development of robust detection models in complex RF signal environments.
